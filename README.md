@@ -46,11 +46,7 @@ STEP 5:Include Necessary parameters in each functions.
 ![image](https://github.com/user-attachments/assets/32079b80-2c73-42da-bbea-281a412ac111)
 ![image](https://github.com/user-attachments/assets/69809867-5161-41e3-add8-552987d17d2a)
 ![image](https://github.com/user-attachments/assets/b93a6c0e-080c-49cd-a0e0-8afff138b630)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/734d686c-1e91-43c8-8aa6-45a03146f6d0)
 
 # Result:
- Include your result here
+Thus the program is executed successfully.
